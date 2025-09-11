@@ -1,4 +1,4 @@
-# 2025_Electricity_Consumption_Forecasting_AI_Competition
+# 2025 Electricity Consumption Forecasting AI Competition
 
 ## Awards
 - **2nd place (Excellence Award)**, *Team SKKU brAIn*
