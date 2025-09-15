@@ -1,8 +1,7 @@
 # 2025 Electricity Consumption Forecasting AI Competition
 
 ## Awards
-- **2nd place (Excellence Award)**, *Team SKKU brAIn*
-- **President’s Award** — Korea Energy Agency (KEA)
+- **2nd place**, *Team SKKU brAIn*
 - [Competition link](https://dacon.io/competitions/official/236531/overview/description)
 - [Competition code release and presentation materials link](https://dacon.io/competitions/official/236531/codeshare/12766?page=1&dtype=recent)
 
