@@ -3,7 +3,7 @@
 ## Awards
 - **2nd place (Excellence Award)** out of 934 teams, *Team SKKU brAIn*
 - **Top 0.2%**
-- **Korea Energy Agency (KEA)**
+- **DACON Inc.· Korea Energy Agency (KEA)**
 - [Competition link](https://dacon.io/competitions/official/236531/overview/description)
 - [Competition code release and presentation materials link](https://dacon.io/competitions/official/236531/codeshare/12766?page=1&dtype=recent)
 
